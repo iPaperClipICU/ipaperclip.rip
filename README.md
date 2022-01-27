@@ -1,5 +1,7 @@
 # ipaperclip.rip
 
+欢迎通过 [提交Pull requests](https://github.com/iPaperClipICU/ipaperclip.rip/pulls)/[发送Issues](https://github.com/iPaperClipICU/ipaperclip.rip/issues) 更新导航
+
 ## 视频归档站
 
 - [回形针重症监护室](https://ipaperclip.icu/)
