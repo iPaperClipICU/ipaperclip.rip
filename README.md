@@ -24,6 +24,6 @@
 
 ## R.I.P
 
-![R.I.P: 大的没了](https://cdn.jsdelivr.net/gh/ipaperclip-icu/static/image/RIP/rip1.png?imageMogr2/format/avif)
+![R.I.P: 大的没了](https://cdn.jsdelivr.net/gh/ipaperclip-icu/static/image/RIP/rip1.webp ':size=1000x562.5')
 
-![R.I.P: 喜讯](https://cdn.jsdelivr.net/gh/ipaperclip-icu/static/image/RIP/rip2.jpg?imageMogr2/format/avif)
+![R.I.P: 喜讯](https://cdn.jsdelivr.net/gh/ipaperclip-icu/static/image/RIP/rip2.webp ':size=1000x563')
